@@ -67,9 +67,7 @@
 ```text
 南京工业大学
 ```
-<img width="942" height="346" alt="image" src="https://github.com/user-attachments/assets/0e9fa467-9c78-4f2d-b521-0e8bb9d2d525" />
 
----
 
 ## ⚙️ Prompt设计（核心）
 
